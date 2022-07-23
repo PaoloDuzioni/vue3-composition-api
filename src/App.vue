@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue';
-import useGreetings from '@/hooks/useGreetings';
+import useGreetings from '@/composables/useGreetings';
 import Counter from '@/components/Counter.vue';
 
 // HOOKS

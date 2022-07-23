@@ -5,4 +5,4 @@
 - Computed
 - Methods
 - Life Cycle Methods
-- Reusable functionality (hooks)
+- Composables (hooks)
